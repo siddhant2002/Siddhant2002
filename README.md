@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **DevOps, Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://siddhants-portfolio.netlify.app/](https://siddhants-portfolio.netlify.app/)
-
 - 📫 How to reach me **siddhantswarupmallick@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
